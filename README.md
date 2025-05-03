@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Long
-*Aspiring NLP Engineer | AI Enthusiast | Project Manager in Data-Centric AI*
+*Aspiring NLP Engineer | AI Enthusiast*
 
 ---
 
@@ -31,44 +31,32 @@ Focus: AI Engineering (Natural Language Processing)
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a 3-member team through planning, annotation, and verification stages.
 
-### 📄 NongTri Importing Document System  
-**Role**: Developer  
-- Automated downloading and organizing PDFs based on agricultural data from Excel/CSV files.  
-- Implemented normalization for Vietnamese plant names and folder structuring.
-
-### 📈 Commodity Price Scraper  
-**Role**: Developer  
-- Web-scraped real-time prices for key Vietnamese commodities (e.g., durian, pepper, coffee).  
-- Used Selenium to extract structured data and export for analysis.
-
 ---
 
 ## 📌 Course Highlights
-- **CS221**: Natural Language Processing  
-- **CS324**: Machine Learning for NLP  
-- **CS323**: Question-Answering Systems  
-- **CS321**: Corpus Linguistics  
-- **Advanced Probability & Statistics**: With mini-projects on predictive modeling
+- **IT004**: Database
+- **DS102**: Statistical Machine Learning
+- **DS107**: Computational Machine Learning for Data Science
+- **DS180**: Data Preprocessing and Collecting
+- **DS101**: Advanced Statistics and Probability
 
 ---
 
 ## 🎯 Goals for 2025
-- 🚧 Build an automatic annotation pipeline with LLM assistance  
-- 📘 Publish UIT@PubHealthQA dataset with benchmark models  
-- 🤖 Contribute to an open-source NLP project  
+- 🚧 Get ready for a career as an AI Engineer 
+- 🤖 Conduct and publish a personal project related to NLP fields 
 - 🎤 Improve public speaking & English proficiency (Target IELTS 6.5+)
 
 ---
 
 ## 📫 Let's Connect!
-- ✉️ Email: [YourEmail@example.com]  
-- 🌐 LinkedIn: [linkedin.com/in/your-profile]  
-- 🧠 Personal Blog (optional): [yourblog.dev]  
-- 🏠 Portfolio (optional): [your-portfolio.com]
+- ✉️ Email: 23520882@gm.uit.edu.vn
+- ✉️ Personal: longnguyenhoang.personal@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/nguyenlog205/ 
 
 ---
 
-> “Language is the most powerful tool we have. I’m here to make it work smarter.”
+> “Language is the most powerful instrument we have. I’m here to make it work smarter.”
 
 <!---
 nguyenlong205/nguyenlong205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
