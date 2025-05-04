@@ -9,7 +9,7 @@ I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** 
 ---
 
 ## 📚 Education
-**University of Information Technology, VNU-HCM**  
+**University of Information Technology, Vietnam National University Ho Chi Minh city**  
 *B.Sc. in Data Science* (Expected: June 2027)  
 Focus: AI Engineering (Natural Language Processing)
 
