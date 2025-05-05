@@ -26,7 +26,7 @@ I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** 
 
 ## 🚀 Projects
 
-### 🏥 UIT@PubHealthQA – Vietnamese Healthcare Q&A Dataset  
+### 🏥 [UIT@PubHealthQA – Vietnamese Healthcare Q&A Dataset](https://github.com/nguyenlong205/uit.PubHealthQA)  
 **Role**: Project Manager & Lead Annotator  
 - Built a question-answer dataset based on real-life public health inquiries in HCMC.  
 - Designed the pipeline for annotation and prompt-based data generation.  
@@ -37,7 +37,7 @@ I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** 
 ## 📌 Course Highlights
 - **IT004**: Database
 - **DS102**: Statistical Machine Learning
-- **DS107**: Computational Machine Learning for Data Science
+- **DS107**: Computational Thinking for Data Science
 - **DS180**: Data Preprocessing and Collecting
 - **DS101**: Advanced Statistics and Probability
 
