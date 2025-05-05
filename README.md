@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Long
-*Aspiring NLP Engineer | AI Enthusiast*
+***Major**: Aspiring NLP Engineer | **Minor**: Aspiring Project Manager*
 
 ---
 
@@ -34,15 +34,6 @@ My goal is to become a proficient **NLP Engineer**, contributing to impactful la
 - Built a question-answer dataset based on real-life public health inquiries in HCMC.  
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a 3-member team through planning, annotation, and verification stages.
-
----
-
-## 📌 Course Highlights
-- **IT004**: Database
-- **DS102**: Statistical Machine Learning
-- **DS107**: Computational Thinking for Data Science
-- **DS180**: Data Preprocessing and Collecting
-- **DS101**: Advanced Statistics and Probability
 
 ---
 
