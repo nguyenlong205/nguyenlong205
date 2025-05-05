@@ -11,7 +11,7 @@ My goal is to become a proficient **NLP Engineer**, contributing to impactful la
 ---
 
 ## 📚 Education
-### **University of Information Technology, Vietnam National University - Ho Chi Minh city**  
+### [**University of Information Technology, Vietnam National University - Ho Chi Minh city**](https://www.facebook.com/UIT.Fanpage)  
 > *B.Sc. in Data Science (Expected: June 2027)*  
 - Related courseworks: Advanced Statistics and Probability, Database, Data Preprocessing and Collecting, Statistical Machine Learning, Computational Thinking for Data Science
 - Online courseworks: [Foundation of Project Management](https://coursera.org/share/e9661f36865dcbd0f7d5192b116e8d65), [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/certificate/UC-78a294d2-6874-4d21-8dbf-abb3e4e62a38/)
