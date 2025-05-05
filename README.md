@@ -4,7 +4,9 @@
 ---
 
 ## 🧠 Objectives and Vision
-I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** and **AI Agent Systems**. Currently leading and contributing to projects involving data annotation, information extraction, and intelligent automation. I aim to become an NLP Engineer, and I'm actively developing both technical and management skills.
+I'm a second-year student passionate about **Natural Language Processing (NLP)** and **AI Agent Systems**, with hands-on experience in data annotation, information extraction, and automation. Currently leading NLP-related projects, I’m actively building strong foundations in both **technical skills** (such as Python, SQL/NoSQL, and NLP pipelines) and **management capabilities** (project planning, task delegation, and Agile practices). 
+
+My goal is to become a proficient **NLP Engineer**, contributing to impactful language technologies through both individual expertise and effective team collaboration.
 
 ---
 
