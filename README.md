@@ -17,9 +17,10 @@ I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, JavaScript, Markdown, HTML/CSS  
+- **Programming Languages**: Python, JavaScript, Markdown, LaTeX
 - **Libraries & Frameworks**: PyTorch, Hugging Face Transformers, NLTK, Selenium, Pandas, NumPy  
 - **Tools**: Git, VSCode, Jupyter, Docker
+- **Databases**: SQL Server, MongoDB
 - **Others**: Prompt engineering, Annotation pipelines, Agile project management
 
 ---
