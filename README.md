@@ -3,13 +3,13 @@
 
 ---
 
-## 🧠 Objectives
+## 🧠 Objectives and Vision
 I'm a sophomore with a strong interest in **Natural Language Processing (NLP)** and **AI Agent Systems**. Currently leading and contributing to projects involving data annotation, information extraction, and intelligent automation. I aim to become an NLP Engineer, and I'm actively developing both technical and management skills.
 
 ---
 
 ## 📚 Education
-#### **University of Information Technology, Vietnam National University - Ho Chi Minh city**  
+### **University of Information Technology, Vietnam National University - Ho Chi Minh city**  
 *B.Sc. in Data Science* (Expected: June 2027)  
 **Major**: AI Engineering (Natural Language Processing) \
 **Minor**: Project Management
