@@ -20,10 +20,10 @@ My goal is to become a proficient **NLP Engineer**, contributing to impactful la
 
 ## 🛠️ Technical Skills
 - **Programming Languages**: Python, Markdown, LaTeX
-- **Libraries & Frameworks**: Visualization (`matplotlib`, `seaborn`), Data Handling (`numpy`, `pandas`), ML & DL Core (`pytorch`, `scikit-learn`, `tensorflow`), NLP (`nltk`, Hugging Face, Transformer)
-- **Tools**: Git, VSCode, Jupyter, Docker
+- **ML, DL and AI**: PyTorch, Scikit-Learn, TensorFlow, Hugging Face, Transformer, NLTK
+- **Tools and Deployments**: Git, VSCode, Jupyter, Docker
 - **Databases**: SQL Server, MongoDB
-- **Others**: Prompt engineering, Annotation pipelines, Agile project management
+- **Others**: Prompt engineering, Annotation pipelines, Agile project management, Technical Writing & Documentation
 
 ---
 
