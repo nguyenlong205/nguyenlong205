@@ -39,7 +39,7 @@ CLoud platform: AWS
 
 ### 🏥 [UIT@PubHealthQA – Vietnamese Healthcare Q&A Dataset](https://github.com/nguyenlong205/uit.PubHealthQA)  
 **Role**: Project Manager & Lead Annotator  
-- Built a question-answer dataset based on real-life public health inquiries in HCMC.  
+- Use `selenium` and `beautiful soup` to crawl question-answer pairs about Health Public Procedure and related policies.
 - Designed the pipeline for annotation and prompt-based data generation.  
 - Led a 3-member team through planning, annotation, and verification stages.
 
