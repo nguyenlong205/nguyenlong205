@@ -6,7 +6,7 @@
 ## 🧠 Objectives and Vision
 I am a second-year student passionate about **Natural Language Processing (NLP)** and AI Agent Systems, with hands-on experience in data annotation, information extraction, and automation. I am actively building strong foundations in technical skills such as Python, SQL/NoSQL, and NLP pipelines, alongside teamwork and Agile practices.
 
-My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as education, personal financial management, and public services. By pursuing and adapting to digital transformation and AI trends in Vietnam and globally, I aim to contribute-through both individual skills and teamwork-to building more human-centered, accessible, and impactful technologies.
+My long-term goal is to become a **proficient NLP Engineer** who leverages expertise to automate repetitive manual tasks, enhancing productivity and quality of life in essential areas such as education, personal financial management, and public services. By pursuing and adapting to digital transformation and AI trends in Vietnam and globally, I aim to contribute through both individual skills and teamwork, building more human-centered, accessible, and impactful technologies.
 
 ---
 
