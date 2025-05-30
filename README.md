@@ -24,11 +24,11 @@ My long-term goal is to become a **proficient NLP Engineer** who leverages exper
 - **Tools**: GitHub, Jupyter, Overleaf
 - **Backend Framework**: FastAPI
 - **Database Management System**: SQL Server
-- **Others**: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML modelsPrompt engineering, Annotation pipelines, Agile project management, Technical Writing & Documentation
+- **Others**: Agile project management, Technical Writing & Documentation
 <!---
-Database: MongoDB, VectorDB
+Others: Google Cloud Platform (Vertex AI, Compute Engine, Cloud Storage) for training and deploying ML models, Prompt engineering, 
+Database Management System: MongoDB, VectorDB
 Deployment: Docker
-CLoud platform: AWS
 --->
 
 ---
